@@ -8,7 +8,7 @@
   "results": [
     {
       "item": "minecraft:phantom_membrane",
-      "chance": 25
+      "chance": 0.25
     }
   ]
 }
