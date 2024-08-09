@@ -1,0 +1,14 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "minecraft:feather"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:phantom_membrane",
+      "chance": 25
+    }
+  ]
+}

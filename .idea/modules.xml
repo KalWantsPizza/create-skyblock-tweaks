@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Create Skyblock Tweaks.iml" filepath="$PROJECT_DIR$/Create Skyblock Tweaks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fabric/Fabric.iml" filepath="$PROJECT_DIR$/../Fabric/Fabric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Forge/Forge.iml" filepath="$PROJECT_DIR$/../Forge/Forge.iml" />
     </modules>
   </component>
 </project>
