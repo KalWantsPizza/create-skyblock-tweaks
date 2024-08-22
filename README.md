@@ -13,3 +13,7 @@ Datapack for use in the Create Skyblock Infinite modpack, featuring recipes for 
 * A Charcoal > Coal > Coal Blocks + Lava > Diamonds loop
 * Craftable Tuff
 * Chance to crush Limestone and Scoria for copper and zinc nuggets, respectively
+
+
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/datapack/create-skyblock-tweaks)
+[![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/KalWantsPizza/create-skyblock-tweaks)
