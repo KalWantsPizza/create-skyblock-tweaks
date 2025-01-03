@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Create Skyblock Tweaks.iml" filepath="$PROJECT_DIR$/Create Skyblock Tweaks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Fabric/Fabric.iml" filepath="$PROJECT_DIR$/../Fabric/Fabric.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Forge/Forge.iml" filepath="$PROJECT_DIR$/../Forge/Forge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/createskyblocktweaks.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/createskyblocktweaks.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/createskyblocktweaks.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/createskyblocktweaks.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/createskyblocktweaks.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/createskyblocktweaks.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/createskyblocktweaks.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/createskyblocktweaks.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/createskyblocktweaks.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/createskyblocktweaks.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/createskyblocktweaks.forge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/createskyblocktweaks.forge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/forge/createskyblocktweaks.forge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/forge/createskyblocktweaks.forge.test.iml" />
     </modules>
   </component>
 </project>
